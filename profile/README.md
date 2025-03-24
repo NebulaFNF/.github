@@ -1,4 +1,4 @@
-# Welcome to NebulaFNF
+# Welcome to Nebula Coders!
 
 We are the team behind **Star Engine**, a fork of **Psych Engine 0.6.3**, with added quality-of-life improvements and features.
 
